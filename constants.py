@@ -1,4 +1,4 @@
-# List of all constants
+# List of all constant
 SCREEN_WIDTH = 1280
 SCREEN_HEIGHT = 720
 PLAYER_RADIUS = 20
